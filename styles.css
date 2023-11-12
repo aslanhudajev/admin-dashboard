@@ -158,10 +158,6 @@ body {
     border-radius: 10px;
 }
 
-.card {
-
-}
-
 .card-icons {
     display: flex;
     flex-direction: row;
